@@ -9,7 +9,7 @@ object objects extends App {
   //SALA DOES NOT SUPPORT CLASS LEVEL FUNCTIONALITY (STATIC KEYWORD)
   // TO USE CLASS LEVEL DEFINITION IN SCALA WE USE OBJECT
 
-  object demo {
+  object demo  {
     val x = 2
     val fly = "fly"
   }
